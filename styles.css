@@ -1,0 +1,40 @@
+body {
+  font-family: Lora, serif;
+  background: #f6eee4;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.round {
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  background: #2a1f14;
+  color: white;
+  padding: 10px;
+}
+
+.social img {
+  width: 30px;
+  margin: 5px;
+}
